@@ -1,0 +1,8 @@
+<internal_error>
+	<executable>quartus_eda.exe</executable>
+	<sub_system>MEM</sub_system>
+	<error>*** Fatal Error: Out of memory in module quartus_eda.exe (872 megabytes used)</error>
+	<date>Sat Nov 30 22:48:21 2019</date>
+	<version>Version 16.0.0 Build 211 04/27/2016 SJ Lite Edition</version>
+</internal_error>
+
